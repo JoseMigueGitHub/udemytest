@@ -1,2 +1,4 @@
 se agrega un archivo txt para hacer pruebas
 Se hace el commit en github
+
+se genera una nueva rama "nueva"
