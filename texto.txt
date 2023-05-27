@@ -2,3 +2,5 @@ se agrega un archivo txt para hacer pruebas
 Se hace el commit en github
 
 se genera una nueva rama "nueva"
+
+se usa git pull origin nueva, para jalar los cambios en la rama "nueva" a la rama main
